@@ -1,0 +1,87 @@
+body{
+	/*background: #ccc;*/
+	background-image: url(../img/ocean.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+header{
+	background-color: blue;
+	text-align: center;
+	line-height: 3em;
+	color: red;
+	position:fixed;
+	top:0;
+	width: 100%;
+
+
+}
+.assue{
+	margin:0 auto;
+	padding: 40px;
+	width:500px;
+	background:rgba(0,0,0,0.5);
+	height: 600px;
+	width: 50%;
+	margin-top: 100px;
+	position: relative;
+	z-index: -1;
+
+
+}
+.jamal{
+	width: 10%;
+	background: blue;
+	top: -20px;
+	left:-20px;
+	position: absolute;
+	height: 10px;
+	padding-left:40px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+
+.jue{
+	width: 10%;
+	background-color: blue;
+	bottom: -20px;
+	left: -20px;
+	position: absolute;
+	height: 10px;
+	padding-left:40px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+.lau{
+	width: 10%;
+	background-color: blue;
+	top-right: 0px;
+	right: -20px;
+	bottom: -20px;
+
+	position: absolute;
+	height: 10px;
+	padding-left:40px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+.class{
+	width: 10%;
+	background-color: blue;
+	bottom-right: 0px;
+	right:-20px;
+	top: -20px;
+
+	position: absolute;
+	height: 10px;
+	padding-left:40px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+
+
+
